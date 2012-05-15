@@ -1,0 +1,16 @@
+{
+    "contents" : "\n\n\nggplot(studentdata, aes(Drink)) + geom_bar()\n\nstudentdata$HoursSlept <- studentdata$WakeUp - studentdata$ToSleep\ngplot(studentdata, aes(HoursSlept)) + geom_histogram(binwidth=1)",
+    "created" : 1337055076727.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "644832253",
+    "id" : "55CB00AC",
+    "lastKnownWriteTime" : 1337055154,
+    "path" : "Z:/Marius/R Code/LearnBayes/Sketchpad.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

@@ -1,0 +1,16 @@
+{
+    "contents" : "library(LearnBayes)\nlibrary(ggplot2)",
+    "created" : 1337054658421.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4246244454",
+    "id" : "8F7B224",
+    "lastKnownWriteTime" : 1337054950,
+    "path" : "Z:/Marius/R Code/LearnBayes/.Rprofile",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
